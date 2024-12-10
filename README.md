@@ -1,4 +1,4 @@
-# DDos-Try
+# DDos Attack
 import asyncio
 import socket
 
